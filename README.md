@@ -20,4 +20,4 @@ This project solves a backend integration task involving polling APIs, deduplica
 
 ## Sample Output
 
-![Terminal Output](Screenshot 2026-04-24 183720.png)
+![Terminal Output](output.png)
