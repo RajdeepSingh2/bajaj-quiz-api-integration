@@ -1,5 +1,6 @@
-This project solves a backend integration task involving polling APIs, deduplication, aggregation, and leaderboard generation.
 # Quiz API Integration - Bajaj Finserv Health
+
+This project solves a backend integration task involving polling APIs, deduplication, aggregation, and leaderboard generation.
 
 ## Approach
 - Called API 10 times (poll=0 to 9) with 5-second delay
@@ -16,3 +17,7 @@ This project solves a backend integration task involving polling APIs, deduplica
 - Correct leaderboard generated
 - Total score computed dynamically
 - API submission successful
+
+## Sample Output
+
+![Terminal Output](Screenshot 2026-04-24 183720.png)
